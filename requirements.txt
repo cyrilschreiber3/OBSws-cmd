@@ -1,1 +1,2 @@
-obs-ws-rc
+asyncio
+websockets
